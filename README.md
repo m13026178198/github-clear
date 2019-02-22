@@ -18,7 +18,7 @@
 ```shell
 Usage of main_go:
   -d string
-    	chromedriver绝对路径 (default "./chromedriver")
+    	chromedriver绝对路径 (default "./drivers/chromedriver")
   -p string
     	github登录密码
   -s int
